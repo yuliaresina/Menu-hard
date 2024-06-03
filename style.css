@@ -1,0 +1,27 @@
+
+
+nav {
+    max-width: 1000px;
+    height: 3rem;
+    background: #c5c2c2;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav img {
+    height: 50%;
+    margin: auto auto auto 1rem; 
+}
+
+nav a {
+    
+    color: #353333;
+    margin: 1rem;
+}
+nav a.login {
+    padding: .25rem 1rem;
+    border: 1px solid #999;
+    border-radius: 1rem;
+    margin-left: auto;
+}
